@@ -32,13 +32,13 @@ I specialize in turning complex business needs into efficient, modern, and maint
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Last Featured Projects
 
 | Project Name | Description | Tech Stack | Demo |
 |--------------|-------------|------------|------|
 | **Smart Store** | E-commerce platform with shopping cart, Stripe integration, admin panel | `.NET MVC`, `EF Core`, `Stripe`, `Bootstrap` | [🔗 youtube](https://youtu.be/_wnARJr9ryA?si=WQEfGaZuTUdTYcMf) |
-| **Markets Economics** | Economic blog platform with category management and secure API | `.NET API`, `Angular`, `JWT`, `SQL Server` | [🔗 GitHub](https://github.com/islamaymanweb) |
-| **Elite Haven** | Luxury villa booking system with payment and admin role system | `.NET MVC`, `EF`, `Razor`, `Bootstrap` | [🔗 GitHub](https://github.com/islamaymanweb) |
+| **Markets Economics** | Economic blog platform with category management and secure API | `.NET API`, `Angular`, `JWT`, `SQL Server` | [🔗 GitHub](https://github.com/islamaymanweb/MarketsEconomics_Website.Net_Angular) |
+| **Elite Haven** | Luxury villa booking system with payment and admin role system | `.NET MVC`, `EF`, `Razor`, `Bootstrap` | [🔗 GitHub](https://github.com/islamaymanweb/EliteHaven-BookingSystem) |
 
 > 💡 *Each project focuses on solving real-world business problems with practical and scalable solutions.*
 
