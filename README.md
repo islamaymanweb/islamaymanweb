@@ -64,13 +64,27 @@ I specialize in turning complex business needs into efficient, modern, and maint
 
 ### 🤝 Let's Collaborate
 
-I’m always open to **freelance projects**, **technical collaborations**, and **new challenges**. Let’s build something great together.
+I’m always open to **freelance projects**, **technical collaborations**, and **new challenges**.  
+Let’s build something great together 🚀
 
 <p align="center">
-  <a href="mailto:islamwebdevelopment@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/islam-ayman-2406a2277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/islamaymanweb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:islamwebdevelopment@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/islam-ayman-2406a2277/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/islamaymanweb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://islamaymanweb.github.io/IslamAyman/">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.youtube.com/@IslamAyman-tv6pv">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
 </p>
+
 
 ---
 
