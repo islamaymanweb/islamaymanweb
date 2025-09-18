@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-🎯 I’m **Islam Ayman**, a passionate and detail-oriented **Full Stack Web Developer** with over **2 years of hands-on experience** building scalable, secure, and business-driven applications using **.NET Core** and **Angular**.
+🎯 I’m **Islam Ayman**, a passionate and detail-oriented **Full Stack Web Developer** with over **1.5 years of hands-on experience** building scalable, secure, and business-driven applications using **.NET Core** and **Angular**.
 
 I specialize in turning complex business needs into efficient, modern, and maintainable software solutions that **optimize operations**, **reduce costs**, and **elevate customer experiences**.
 
