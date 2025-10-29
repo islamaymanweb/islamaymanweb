@@ -3,15 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Islam+Ayman+%F0%9F%91%8B;Full+Stack+Web+Developer+(.NET+%2B+Angular);Building+Business-Focused+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
 ### 👨‍💻 About Me
 
-🎯 I’m **Islam Ayman**, a passionate and detail-oriented **Full Stack Web Developer** with over **2 years of hands-on experience** building scalable, secure, and business-driven applications using **.NET Core** and **Angular**.
+🎯 I’m **Islam Ayman**, a passionate and detail-oriented **Full Stack Web Developer** specialized in building scalable, secure, and business-driven web applications using **.NET Core** and **Angular**.
 
-I specialize in turning complex business needs into efficient, modern, and maintainable software solutions that **optimize operations**, **reduce costs**, and **elevate customer experiences**.
+I focus on transforming complex business requirements into efficient, modern, and maintainable software solutions that **optimize operations**, **reduce costs**, and **enhance user experience**.
 
----
 
 ### 🧠 How I Add Real Business Value
 
